@@ -101,6 +101,11 @@ ol {
   padding-bottom: 115px;
 }
 
+.spacing {
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
 .text-white h1,
 .text-white h2,
 .text-white h3,

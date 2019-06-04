@@ -1,4 +1,6 @@
 function initialize() {
+   console.log("INITSSSS");
+
    var myOptions = {
       zoom: 16,
       center: new google.maps.LatLng(51.489500, -0.096777), //change the coordinates
